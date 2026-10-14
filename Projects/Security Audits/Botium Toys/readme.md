@@ -2,7 +2,7 @@
   This is an internal security audit for a fictional company. I was tasked with this Project in my Google cybersecurity certification Course.
 
   
-  The assessment uses concepts from **NIST CSF** security framework 
+  The assessment uses concepts from **NIST CSF, Payment Card Industry Data Security Standard (PCI DSS), General Data Protection Regulation (GDPR), System and Organizations Controls (SOC type 1, SOC type 2)** security frameworks
 
 ## Scenario
   Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide.
@@ -13,8 +13,7 @@
   
   Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-[Veiw: Botium Toys: Scope, goals, and risk assessment report](https://docs.google.com/document/d/1fn2N-4pVzRQ8VCN1zzx5fm5uABeC3LoT/edit?usp=drive_link&ouid=102961763573972563230&rtpof=true&sd=true)
-
+---
 # 🪀 Botium Toys: Scope, goals, and risk assessment report
 
 ## 🔭 Scope and goals of the audit
