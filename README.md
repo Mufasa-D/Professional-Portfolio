@@ -7,3 +7,7 @@ I am dedicated to building secure, high-performing systems. With a strong backgr
 Inside this portfolio, you’ll find practical security assessments, technical investigations, and automated workflows demonstrating how I analyze, engineer, and resolve cybersecurity challenges with technical depth and risk context.
 
 ---
+
+## 📜 Certifications 
+| --- | --- |
+| Name | Credentials |
