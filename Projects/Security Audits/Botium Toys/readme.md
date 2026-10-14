@@ -1,5 +1,7 @@
 # 📎Overview
   This is an internal security audit for a fictional company. I was tasked with this Project in my Google cybersecurity certification Course.
+
+  
   The assessment uses concepts from **NIST CSF** security framework 
 
 ## Scenario
@@ -63,6 +65,10 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 ---
 
+
+---
+
+
 # 🔬 The Internal Audit: 
 ## **Controls assessment checklist**
 
@@ -119,3 +125,47 @@ The potential impact from the loss of an asset is rated as medium, because the I
 | 📌 | | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
 | | 📌 | Data is available to individuals authorized to access it. |
 
+
+---
+
+
+# 🔨IT Compliance and Risk Remediation Recommendations🦾
+
+## Executive Summary
+This document provides professional, actionable recommendations for the IT Manager at Botium Toys to address critical compliance gaps, secure assets, and mitigate the high-risk score ($8/10$) identified in the initial risk assessment.
+
+---
+
+## 1. 📋 Asset Management & Inventory (NIST CSF: Identify)
+* **Conduct a Comprehensive Asset Inventory:** Dedicate resources to catalog all physical, software, and data assets across the company to establish baseline visibility.
+* **Implement Asset Classification:** Classify assets based on criticality and data sensitivity to understand business continuity impacts in the event of an asset loss.
+
+---
+
+## 2. 🔐 Data Protection & Access Control
+* **Enforce Least Privilege & Separation of Duties:** Restrict internal employee access so that only authorized personnel can view sensitive data, cardholder information, and PII/SPII.
+* **Implement End-to-End Encryption:** Deploy robust encryption mechanisms to protect customers' credit card information during transmission, processing, and local database storage.
+
+---
+
+## 3. 🛜 Network Security & Monitoring
+* **Deploy an Intrusion Detection System (IDS):** Install an IDS alongside the existing firewall to actively monitor network traffic for malicious activity and policy violations.
+* **Maintain Antivirus & Firewall Rules:** Continue regular monitoring of antivirus software and keep the firewall's defined security rules up to date.
+
+---
+
+## 4. 💣 Disaster Recovery & Data Backup
+* **Establish Disaster Recovery Plans:** Develop and document formal disaster recovery procedures to ensure business continuity during unforeseen outages or security incidents.
+* **Automate Critical Data Backups:** Implement regular, secure, and encrypted backups of critical company and customer data.
+
+---
+
+## 5. 🕵️‍♂️ Authentication & Password Management
+* **Update Password Policy Requirements:** Strengthen the current password policy to mandate minimum complexity standards, including a minimum length of 8+ characters, a mix of letters, numbers, and special characters.
+* **Deploy a Centralized Password Manager:** Implement a centralized system to enforce password complexity automatically, reducing IT ticket overhead for password resets and boosting employee productivity.
+
+---
+
+## 6. 💻 Legacy Systems Management
+* **Create a Maintenance Schedule:** Establish a formal, recurring schedule for monitoring, patching, and maintaining end-of-life (legacy) systems.
+* **Define Intervention Protocols:** Document clear intervention methods and escalation steps for legacy system vulnerabilities.
