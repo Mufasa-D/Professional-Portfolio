@@ -9,9 +9,9 @@ Inside this portfolio, you’ll find practical security assessments, technical i
 ---
 
 ## 📜 Certifications 
-| Name | Credentials |
-| --- | --- |
-| Introduction to Cloud Computing | [Verify Credential](https://coursera.org/share/1d6fbfe1e98e5653ecf94c54a4bb8f8f) |
-| Foundations of Cybersecurity | [Verify Credential](https://coursera.org/share/3b195c610a3ca96ca70f46c0dbe395ca) |
-| Play It Safe: Manage Security Risks | [Verify Credential](https://coursera.org/share/af9578d9009e5a7f59287084a33330d2) |
-| Connect and Protect: Networks and Network Security | [Verify Credential](https://coursera.org/share/f477f5d23f8cab65fc3b2e156fb7f71e) |
+| Name | Issued By | Credentials |
+| --- | --- | --- |
+| Introduction to Cloud Computing | IBM | [Verify Credential](https://coursera.org/share/1d6fbfe1e98e5653ecf94c54a4bb8f8f) |
+| Foundations of Cybersecurity | Google | [Verify Credential](https://coursera.org/share/3b195c610a3ca96ca70f46c0dbe395ca) |
+| Play It Safe: Manage Security Risks | Google | [Verify Credential](https://coursera.org/share/af9578d9009e5a7f59287084a33330d2) |
+| Connect and Protect: Networks and Network Security | Google | [Verify Credential](https://coursera.org/share/f477f5d23f8cab65fc3b2e156fb7f71e) |
