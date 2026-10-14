@@ -8,7 +8,7 @@ Inside this portfolio, you’ll find practical security assessments, technical i
 
 ---
 
-## 📜 Certifications 
+## 🎓 Certifications and Training
 | Name | Issued By | Credentials |
 | --- | --- | --- |
 | Introduction to Cloud Computing | IBM | [Verify Credential](https://coursera.org/share/1d6fbfe1e98e5653ecf94c54a4bb8f8f) |
