@@ -8,6 +8,22 @@ Inside this portfolio, you’ll find practical security assessments, technical i
 
 ---
 
+# 💫 Featured Projects
+
+These projects represent some of the strongest examples of my cybersecurity work.
+
+## 🔴 Security Audit — Botium Toys Inc.
+
+Conducted an internal security audit for Botium Toys Inc. by completing a controls and compliance checklist using concepts from **NIST CSF, Payment Card Industry Data Security Standard (PCI DSS), General Data Protection Regulation (GDPR), System and Organizations Controls (SOC type 1, SOC type 2)** security frameworks.
+
+The assessment covers threat sources, threat events, likelihood and impact scoring, attack-surface reduction, IAM, asset management, and defense in depth.
+
+**Skills:** Security Frameworkd · Security Auditing · Risk Analysis · In-depth understanding of the CIA triad · Compliance · Security Controls · Best Practices for Infrastructure Security
+
+➡️ [View Project](projects/Security Audits/Botium Toys/README.md)
+
+
+---
 ## 🎓 Certifications and Training
 | Name | Issued By | Credentials |
 | --- | --- | --- |
