@@ -171,4 +171,4 @@ This document provides professional, actionable recommendations for the IT Manag
 
 
 
-[View other Featured Projects]([../../../README.md](https://github.com/Mufasa-D/Professional-Portfolio/blob/main/README.md#-featured-projects))
+[View other Featured Projects]([../../../README.md#-featured-projects))
