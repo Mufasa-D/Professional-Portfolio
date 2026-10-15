@@ -20,7 +20,7 @@ The assessment covers threat sources, threat events, likelihood and impact scori
 
 **Skills:** Security Frameworkd · Security Auditing · Risk Analysis · In-depth understanding of the CIA triad · Compliance · Security Controls · Best Practices for Infrastructure Security
 
-➡️ [View Project](projects/Security Audits/Botium Toys/README.md)
+➡️ [View Project](./Projects/Security%20Audits/Botium%20Toys/readme.md)
 
 
 ---
