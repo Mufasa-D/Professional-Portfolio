@@ -18,7 +18,7 @@ Conducted an internal security audit for Botium Toys Inc. by completing a contro
 
 The assessment covers threat sources, threat events, likelihood and impact scoring, attack-surface reduction, IAM, asset management, and defense in depth.
 
-**Skills:** Security Frameworkd · Security Auditing · Risk Analysis · In-depth understanding of the CIA triad · Compliance · Security Controls · Best Practices for Infrastructure Security
+**Skills:** Security Frameworkd · Security Auditing · Risk Analysis · In-depth understanding of the CIA triad · Compliance · Security Controls · Best Practices to manage CyberSecurity risk
 
 ➡️ [View Project](./Projects/Security%20Audits/Botium%20Toys/readme.md)
 
