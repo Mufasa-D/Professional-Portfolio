@@ -46,4 +46,4 @@ The incident is analyzed through five NIST CSF functions:
 Moving forward, regular audits of firewall configurations and continuous monitoring through network analysis software and intrusion detection systems will be critical to ensuring early detection and rapid mitigation of potential DoS attacks.
 
 
-[View other Featured Projects](../../../README.md#-featured-projects)
+[View other Featured Projects](../../README.md#-featured-projects)
