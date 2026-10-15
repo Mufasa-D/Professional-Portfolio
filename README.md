@@ -12,7 +12,7 @@ Inside this portfolio, you’ll find practical security assessments, technical i
 
 These projects represent some of the strongest examples of my cybersecurity work.
 
-## 🔴 Security Audit — Botium Toys Inc.
+## ⬜ Security Audit — Botium Toys Inc.
 
 Conducted an internal security audit for Botium Toys Inc. by completing a controls and compliance checklist using concepts from **NIST CSF, Payment Card Industry Data Security Standard (PCI DSS), General Data Protection Regulation (GDPR), System and Organizations Controls (SOC type 1, SOC type 2)** security frameworks.
 
@@ -21,6 +21,18 @@ The assessment covers threat sources, threat events, likelihood and impact scori
 **Skills:** Security Frameworkd · Security Auditing · Risk Analysis · In-depth understanding of the CIA triad · Compliance · Security Controls · Best Practices to manage CyberSecurity risk
 
 ➡️ [View Project](./Projects/Security%20Audits/Botium%20Toys/readme.md)
+
+---
+## 🟩 DDoS Incident Response — NIST CSF
+
+Analysis of an ICMP-based DDoS incident using the five functions of the **NIST Cybersecurity Framework**:
+
+**Identify → Protect → Detect → Respond → Recover**
+
+**Skills:** NIST CSF · DDoS · Incident Response · Firewall Security · IDS/IPS · Network Monitoring
+
+➡️ [View Project]()
+
 
 
 ---
