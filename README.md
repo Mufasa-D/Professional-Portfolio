@@ -33,15 +33,13 @@ Analysis of an ICMP-based DDoS incident using the five functions of the **NIST C
 
 ➡️ [View Project]()
 
-
-
 ---
 
 # 🔬 Projects
 
 | Area | Project | Focus | Tools / Frameworks |
 |---|---|---|---|
-| Governance & Risk | [Security Audit](projects/security-audit/README.md) | Security controls, compliance and risk assessment | NIST CSF |
+| Governance, Risk and Work Ethics | [Security Audit](https://github.com/Mufasa-D/Professional-Portfolio/blob/main/Projects/Security%20Audits/Botium%20Toys/readme.md#project-overview-internal-security-audit) | Security controls, compliance and risk assessment | NIST CSF |
 <!--| Network Security | [DNS & ICMP Traffic Analysis](projects/network-traffic-analysis/README.md) | DNS failure and packet investigation | tcpdump, DNS, UDP, ICMP |
 | Network Security | [SYN Flood Analysis](projects/syn-flood-analysis/README.md) | DoS identification and mitigation | TCP/IP, SYN, Firewall, IDS/IPS |
 | Incident Response | [Web Server Compromise](projects/web-compromise-investigation/README.md) | Brute force, malicious code and redirect investigation | DNS, HTTP, TCP/IP |
