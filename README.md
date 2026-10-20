@@ -36,6 +36,25 @@ Analysis of an ICMP-based DDoS incident using the five functions of the **NIST C
 
 
 ---
+
+# 🔬 Projects
+
+| Area | Project | Focus | Tools / Frameworks |
+|---|---|---|---|
+| Governance & Risk | [Security Audit](projects/security-audit/README.md) | Security controls, compliance and risk assessment | NIST CSF |
+<!--| Network Security | [DNS & ICMP Traffic Analysis](projects/network-traffic-analysis/README.md) | DNS failure and packet investigation | tcpdump, DNS, UDP, ICMP |
+| Network Security | [SYN Flood Analysis](projects/syn-flood-analysis/README.md) | DoS identification and mitigation | TCP/IP, SYN, Firewall, IDS/IPS |
+| Incident Response | [Web Server Compromise](projects/web-compromise-investigation/README.md) | Brute force, malicious code and redirect investigation | DNS, HTTP, TCP/IP |
+| Security Engineering | [Network Hardening](projects/network-hardening/README.md) | Secure configuration and attack-surface reduction | Firewall, MFA, IDS/IPS |
+| Incident Response | [NIST CSF Incident Response](projects/nist-incident-response/README.md) | DDoS response using NIST CSF | NIST CSF, ICMP |
+| Linux Security | [Linux File Permissions](projects/linux-permissions/README.md) | Filesystem access control and least privilege | Linux, chmod |
+| Security Analytics | [SQL Security Analysis](projects/sql-security-analysis/README.md) | Authentication and employee security analysis | SQL |
+| Vulnerability Management | [Database Vulnerability Assessment](projects/vulnerability-assessment/README.md) | Threat modelling and risk scoring | NIST SP 800-30 |
+| Security Operations | [SOC Incident Investigation](projects/incident-handler-journal/README.md) | Incident investigation and evidence analysis | Wireshark, tcpdump, VirusTotal, Splunk |
+| Security Automation | [Python Access Control](projects/python-access-control/README.md) | Automated authorization maintenance | Python |
+-->
+---
+
 ## 🎓 Certifications and Training
 | Name | Issued By | Credentials |
 | --- | --- | --- |
