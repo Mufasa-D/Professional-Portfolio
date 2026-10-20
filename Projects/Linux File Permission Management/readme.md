@@ -15,7 +15,10 @@ As part of a security review, file and directory permissions needed to be examin
 
 The goal was to identify excessive permissions and remove unauthorized access.
 
+Please view the current file permissions by clicking the link below⬇️
+[View Current file permissions](https://docs.google.com/document/d/1q5OS7J1tIArAUB6QhWBMDkPn3150b5iH/edit?usp=drive_link&ouid=102961763573972563230&rtpof=true&sd=true)
 ---
+
 Check file and directory details
 [Add content here.]
 Describe the permissions string
