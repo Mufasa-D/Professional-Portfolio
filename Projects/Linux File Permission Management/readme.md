@@ -16,11 +16,11 @@ As part of a security review, file and directory permissions needed to be examin
 The goal was to identify excessive permissions and remove unauthorized access.
 
 Please view the current file permissions by clicking the link below⬇️ <br>
-[View Current file permissions](https://docs.google.com/document/d/1q5OS7J1tIArAUB6QhWBMDkPn3150b5iH/edit?usp=drive_link&ouid=102961763573972563230&rtpof=true&sd=true)
+[View Current file permissions📷](https://docs.google.com/document/d/1q5OS7J1tIArAUB6QhWBMDkPn3150b5iH/edit?usp=drive_link&ouid=102961763573972563230&rtpof=true&sd=true)
 
 ---
 
-# Inspecting Permissions
+# 🕵️‍♂️ Inspecting Permissions
 
 __NB:__ Screenshot links are provided during each step. 
 
@@ -29,7 +29,7 @@ __NB:__ Screenshot links are provided during each step.
 ```bash
 ls -la /home/researcher2/projects
 ```
-[View Screenshot](../../Screenshots/1.png)
+[View Screenshot📷](../../Screenshots/1.png)
 
 ---
 
@@ -39,7 +39,7 @@ The file **project_k.txt**'s permissions had to be changed.
 ```bash
 chmod o-w project_k.txt
 ```
-[View Screenshot](../../Screenshots/2.png)
+[View Screenshot📷](../../Screenshots/2.png)
 
 ---
 
@@ -48,10 +48,10 @@ chmod o-w project_k.txt
 ```bash
 chmod u=r,g-r .project_x.txt
 ```
-[View Screenshot](../../Screenshots/3.png)
+[View Screenshot📷](../../Screenshots/3.png)
 
 ---
 
-## **Summary**
+## 🟰 **Summary**
 I understand that managing file permissions is just about keeping things locked down safely. It ensures folks only touch what they actually need to, keeps sensitive data out of the wrong hands, and stops accidental mistakes from taking down the whole system. I know how important this responsibility is for a security analyst in an organization and have mastered it.
 
