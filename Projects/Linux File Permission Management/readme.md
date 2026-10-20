@@ -52,16 +52,6 @@ chmod u=r,g-r .project_x.txt
 
 ---
 
-<!--Check file and directory details
-[Add content here.]
-Describe the permissions string
-[Add content here.]
-Change file permissions
-[Add content here.]
-Change file permissions on a hidden file
-[Add content here.]
-Change directory permissions
-[Add content here.]
-Summary
-[Add content here.]
+## **Summary**
+I understand that managing file permissions is just about keeping things locked down safely. It ensures folks only touch what they actually need to, keeps sensitive data out of the wrong hands, and stops accidental mistakes from taking down the whole system. I know how important this responsibility is for a security analyst in an organization and have mastered it.
 
