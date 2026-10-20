@@ -29,7 +29,7 @@ __NB:__ Screenshot links are provided during each step.
 ```bash
 ls -la /home/researcher2/projects
 ```
-[View Screenshot]()
+[View Screenshot](../../Screenshots/1.png)
 
 ---
 
@@ -39,7 +39,7 @@ The file **project_k.txt**'s permissions had to be changed.
 ```bash
 chmod o-w project_k.txt
 ```
-[View Screenshot]()
+[View Screenshot](../../Screenshots/2.png)
 
 ## Remove Write Access for Others
 
