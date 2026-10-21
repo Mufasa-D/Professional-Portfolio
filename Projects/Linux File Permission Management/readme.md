@@ -24,7 +24,7 @@ Please view the current file permissions by clicking the link below⬇️ <br>
 
 __NB:__ Screenshot links are provided during each step. 
 
-1. The first step was to inspect the directory:
+__1.__ The first step was to inspect the directory:
 
 ```bash
 ls -la /home/researcher2/projects
@@ -88,7 +88,7 @@ means:
 
 ---
 
-2. According to the organizations security policies, none of the files should allow the "other" users to write to files. Hence I had to make that change.
+__2.__ According to the organizations security policies, none of the files should allow the "other" users to write to files. Hence I had to make that change.
 The file **project_k.txt**'s permissions had to be changed. 
 
 ```bash
@@ -98,7 +98,7 @@ chmod o-w project_k.txt
 
 ---
 
-3. There was a hidden file which needed to have only "read" permissions for user and group. I made the required change.
+__3.__ There was a hidden file which needed to have only "read" permissions for user and group. I made the required change.
 
 ```bash
 chmod u=r,g-r .project_x.txt
@@ -107,7 +107,7 @@ chmod u=r,g-r .project_x.txt
 
 ---
 
-4. The `drafts` directory needed to be accessible only by its owner.
+__4.__ The `drafts` directory needed to be accessible only by its owner.
 
 The desired permissions are:
 
@@ -131,18 +131,15 @@ while removing all permissions from the group and others.
 
 ---
 
-# Security Principles Applied
+# ⚓ Security Principles Applied
 
 ## Least Privilege
-
 Users should receive only the permissions required to perform their responsibilities.
-
 Removing unnecessary write or directory access reduces the possibility of unauthorized modification or disclosure.
 
 ---
 
 ## Access Control
-
 Linux filesystem permissions provide discretionary access control through three primary identities:
 
 ```text
@@ -161,7 +158,7 @@ Execute
 
 ---
 
-## Attack-Surface Reduction
+## 🛡️ Attack-Surface Reduction
 
 Excessive filesystem permissions can enable unauthorized users to:
 
@@ -175,7 +172,7 @@ Restricting permissions reduces these opportunities.
 
 ---
 
-# Skills Demonstrated
+# 🏄‍♂️ Skills Demonstrated
 
 This project demonstrates practical knowledge of:
 
