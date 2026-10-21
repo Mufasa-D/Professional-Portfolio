@@ -109,17 +109,17 @@ chmod u=r,g-r .project_x.txt
 
 __4.__ The `drafts` directory needed to be accessible only by its owner.
 
-The desired permissions are:
-
-```text
-drwx------
-```
-
 This can be configured using:
 
 ```bash
 chmod u=rwx,g=,o= /home/researcher2/projects/drafts
 ```
+The desired permissions are:
+
+```text
+drwx------
+```
+[View Screenshot📷](../../Screenshots/4.png)
 
 This gives the owner:
 
