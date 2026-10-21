@@ -15,8 +15,6 @@ As part of a security review, file and directory permissions needed to be examin
 
 The goal was to identify excessive permissions and remove unauthorized access.
 
-Please view the current file permissions by clicking the link below⬇️ <br>
-[View Current file permissions📷](https://docs.google.com/document/d/1q5OS7J1tIArAUB6QhWBMDkPn3150b5iH/edit?usp=drive_link&ouid=102961763573972563230&rtpof=true&sd=true)
 
 ---
 
@@ -119,7 +117,7 @@ The desired permissions are:
 ```text
 drwx------
 ```
-[View Screenshot📷](../../Screenshots/4.png)
+[View Screenshot📷](../../Screenshots/5.png)
 
 This gives the owner:
 
