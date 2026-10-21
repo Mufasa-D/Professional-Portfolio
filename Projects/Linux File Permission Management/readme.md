@@ -31,6 +31,61 @@ ls -la /home/researcher2/projects
 ```
 [View Screenshot📷](../../Screenshots/1.png)
 
+The `-l` option displays detailed file information, including permissions, ownership, group membership, file size, and modification information.
+
+The `-a` option also displays hidden files.
+
+## 🌠 Understanding Linux Permissions
+
+Consider:
+
+```text
+-rw-rw-rw-
+```
+
+Linux permissions can be divided into four sections:
+
+```text
+- | rw- | rw- | rw-
+    │      │      │
+    │      │      └── Others
+    │      └───────── Group
+    └──────────────── User / Owner
+```
+
+The first character describes the object type:
+
+```text
+- = regular file
+d = directory
+l = symbolic link
+```
+
+The remaining characters represent:
+
+```text
+r = read
+w = write
+x = execute
+- = permission not granted
+```
+
+Therefore:
+
+```text
+-rw-rw-rw-
+```
+
+means:
+
+| Identity | Read | Write | Execute |
+|---|---|---|---|
+| Owner | Yes | Yes | No |
+| Group | Yes | Yes | No |
+| Others | Yes | Yes | No |
+
+---
+
 ---
 
 2. According to the organizations security policies, none of the files should allow the "other" users to write to files. Hence I had to make that change.
@@ -49,6 +104,93 @@ chmod o-w project_k.txt
 chmod u=r,g-r .project_x.txt
 ```
 [View Screenshot📷](../../Screenshots/3.png)
+
+---
+
+4. The `drafts` directory needed to be accessible only by its owner.
+
+The desired permissions are:
+
+```text
+drwx------
+```
+
+This can be configured using:
+
+```bash
+chmod u=rwx,g=,o= /home/researcher2/projects/drafts
+```
+
+This gives the owner:
+
+- Read
+- Write
+- Execute
+
+while removing all permissions from the group and others.
+
+---
+
+# Security Principles Applied
+
+## Least Privilege
+
+Users should receive only the permissions required to perform their responsibilities.
+
+Removing unnecessary write or directory access reduces the possibility of unauthorized modification or disclosure.
+
+---
+
+## Access Control
+
+Linux filesystem permissions provide discretionary access control through three primary identities:
+
+```text
+User
+Group
+Others
+```
+
+Permissions can then control:
+
+```text
+Read
+Write
+Execute
+```
+
+---
+
+## Attack-Surface Reduction
+
+Excessive filesystem permissions can enable unauthorized users to:
+
+- Read sensitive information
+- Modify files
+- Delete information
+- Execute files
+- Access restricted directories
+
+Restricting permissions reduces these opportunities.
+
+---
+
+# Skills Demonstrated
+
+This project demonstrates practical knowledge of:
+
+- Linux
+- Linux filesystem permissions
+- `ls`
+- `chmod`
+- Symbolic permissions
+- Numeric/octal permissions
+- Hidden files
+- Directory permissions
+- Access control
+- Least privilege
+- Security configuration
+- Verification of security changes
 
 ---
 
